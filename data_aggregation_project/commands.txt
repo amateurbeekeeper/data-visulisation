@@ -1,3 +1,0 @@
-source /Users/crimp/data_aggregation_project/venv/bin/activate
-
-export FLASK_ENV=development; flask run
