@@ -1,0 +1,27 @@
+# Next.js / Node.js
+node_modules/
+.next/
+npm-debug.log
+yarn-error.log
+
+# Flask / Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+*.egg
+*.log
+*.pot
+*.db
+
+# Virtual environment
+back-end/venv/
+
+# OS generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
